@@ -1,7 +1,7 @@
-<h1>We care</h1>
+<h1>We care about your pet</h1> :dog:
 <br>
 <br>
-<h2>Esse projeto foi um dos primeiros projetos que eu aprendi no <a href="https://rodolfomori.com.br/devclub">DevClub.</a></h2>
+<h2>Esse projeto foi um dos primeiros que eu aprendi no <a href="https://rodolfomori.com.br/devclub">DevClub.</a></h2>
 
 <h3>Tecnologias utilizadas:</h3>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
